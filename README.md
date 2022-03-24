@@ -1,6 +1,8 @@
 # My Personal Website
 I made this website using HTML CSS JS to show off my experience, projects, and skills.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0fb2b99d-81c1-4a97-abc3-5c789e61bfe3/deploy-status)](https://app.netlify.com/sites/tubular-sawine-968407/deploys)
+
 ### Summary
 The website has four distinct sections:
 1. **The home page**
