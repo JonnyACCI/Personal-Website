@@ -12,7 +12,7 @@ More sections will be added as necessary. For instance, when I get more work exp
 Once a logo is finalized, it can be added to the site.
 
 ### Home Page
-![Home page]([https://media.discordapp.net/attachments/928022919337103393/956441435006197770/unknown.png?width=1237&height=580])
+![alt text](https://media.discordapp.net/attachments/928022919337103393/956441435006197770/unknown.png?width=1237&height=580)
 
 ### Credits
 Button and Motion Features throughout the website can be found on <https://github.com/WebCifar/one-page-website-html-css-project-for-practice>.
