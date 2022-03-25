@@ -486,7 +486,7 @@ p {
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
-	width: 90%;
+	width: 60%;
 }
 #contact .contact-items {
 	/* max-width: 400px; */
@@ -697,7 +697,7 @@ p {
 	#contact .contact-item .contact-info {
 		width: 100%;
 		text-align: left;
-		padding-left: 20px;
+		padding-left: 0px;
 	}
 	/* End contact  */
 }
@@ -754,4 +754,8 @@ p {
   to {
     text-shadow: 0 0 10px #fff, 0 0 15px var(--lightestorange), 0 0 20px var(--lightestorange), 0 0 25px var(--lightestorange), 0 0 30px var(--lightestorange), 0 0 35px var(--lightestorange), 0 0 40px var(--lightestorange);
   }
+}
+
+.descOne {
+  color:lightblue;
 }
