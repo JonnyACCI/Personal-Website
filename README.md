@@ -1,5 +1,5 @@
 # My Personal Website
-I made this website using HTML CSS JS to show off my experience, projects, and to provide access to my resume, GitHub, and LinkedIn.
+I made this website using HTML CSS JS to show off my experience and projects, as well as to provide access to my resume, GitHub, and LinkedIn.
 
 
 ### Summary
